@@ -1,6 +1,6 @@
 # CodeChella Project
 
-## Organizado por Alura cursos online
+### Organizado por Alura cursos online
 
 O CodeChella é um festival de música alternativa que acontece anualmente, é composto por gêneros diversos e visa promover uma experiência encantadora e inesquecível para o visitante, proporcionando uma integração multicultural e social.
 
